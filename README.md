@@ -56,18 +56,6 @@ cryptopulse/
 ├── requirements.txt  # Dependências do projeto
 └── .env              # Variáveis de ambiente (não versionado)
 
-🚀 Como Executar
-# Clonar o repositório
-git clone https://github.com/SEU_USUARIO/cryptopulse.git
-
-# Acessar a pasta
-cd cryptopulse
-
-# Instalar dependências
-pip install -r requirements.txt
-
-# Rodar aplicação
-streamlit run analise.py
 
 📌 Possíveis Melhorias
 Sistema de alertas de preço
