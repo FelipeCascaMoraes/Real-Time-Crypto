@@ -1,0 +1,71 @@
+# ── Python ─────────────────────────────
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribuição / build
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ambientes virtuais
+
+venv/
+env/
+ENV/
+.venv/
+
+# ── Variáveis de ambiente ──────────────
+
+.env
+.env.*
+!.env.example
+
+# ── Jupyter / notebooks ────────────────
+
+.ipynb_checkpoints/
+
+# ── Logs ──────────────────────────────
+
+*.log
+
+# ── Sistema operacional ───────────────
+
+.DS_Store
+Thumbs.db
+
+# ── VS Code ───────────────────────────
+
+.vscode/
+
+# ── PyCharm ───────────────────────────
+
+.idea/
+
+# ── Streamlit ─────────────────────────
+
+.streamlit/
+
+# ── Test / coverage ───────────────────
+
+htmlcov/
+.coverage
+.pytest_cache/
+
+# ── Arquivos temporários ──────────────
+
+*.tmp
+*.swp
+
+# ── Dados locais (se você criar depois) ─
+
+data/
+*.csv
+*.xlsx
+
+# ── Secrets / chaves ──────────────────
+
+secrets.toml
