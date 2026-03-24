@@ -62,7 +62,8 @@ Responsável pelas notícias:
 ---
 
 ## 🧠 Estrutura do Projeto
-'''📁 CRIPTO/
+'''Text
+📁 CRIPTO/
 ├── 📄 analise.py # Interface principal
 ├── 📄 api.py # Consumo de APIs
 ├── 📄 componentes.py # UI e gráficos
