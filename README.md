@@ -47,8 +47,9 @@ Títulos
 Links
 Fonte
 Data de publicação
+
 🧠 Estrutura do Projeto
-cryptopulse/
+CRIPTO
 │
 ├── analise.py        # Arquivo principal (interface e fluxo da aplicação)
 ├── api.py            # Integração com APIs externas
@@ -65,7 +66,7 @@ Backend dedicado para melhor performance
 Cache mais avançado para reduzir chamadas de API
 👨‍💻 Autor
 
-Felipe Moraes
+Felipe Cascaioli de Moraes
 
 ⭐ Objetivo
 
