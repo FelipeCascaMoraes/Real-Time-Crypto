@@ -64,13 +64,13 @@ Responsável pelas notícias:
 ## 🧠 Estrutura do Projeto
 
 ```text
-CRIPTO/
-├── analise.py        # Interface principal
-├── api.py            # Consumo de APIs
-├── componentes.py    # UI e gráficos
-├── requirements.txt  # Dependências do projeto
-└── .env              # Variáveis de ambiente (Chaves de API)
-
+📁CRIPTO/
+├── 📄analise.py        # Interface principal
+├── 📄api.py            # Consumo de APIs
+├── 📄componentes.py    # UI e gráficos
+├── 📄requirements.txt  # Dependências do projeto
+└── 🔐.env              # Variáveis de ambiente (Chaves de API)
+````
 
 ---
 
