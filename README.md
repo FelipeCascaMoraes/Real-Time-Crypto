@@ -62,13 +62,12 @@ Responsável pelas notícias:
 ---
 
 ## 🧠 Estrutura do Projeto
-CRIPTO/
-│
-├── analise.py # Interface e fluxo da aplicação
-├── api.py # Integração com APIs
-├── componentes.py # Componentes visuais e gráficos
-├── requirements.txt
-└── .env # Variáveis de ambiente (não versionado)
+📁 CRIPTO/
+├── 📄 analise.py # Interface principal
+├── 📄 api.py # Consumo de APIs
+├── 📄 componentes.py # UI e gráficos
+├── 📄 requirements.txt
+└── 🔐 .env
 
 
 ---
